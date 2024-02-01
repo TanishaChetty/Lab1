@@ -20,7 +20,7 @@ Below are instructions for setting up our course environment. It's important tha
 
 **Don't worry if you don't know what certain terms mean at this point. We'll be going over things like what it means to commit code a little later in the semester.** I just believe it'll be easier to follow along with me in learning those things if you can follow along on your own computers. That's why we're taking this step to get things up and running so early in the semester. 
 
-1. Follow the instructions in [chapter 4](https://happygitwithr.com/github-acct.html) of *Happy Git and GitHub for the useR* to create a GitHub account. If you already have a GitHub account, skip this step. 
+1. Follow the instructions in [chapter 4](https://happygitwithr.com/github-acct.html) of *Happy Git and GitHub for the useR* to create a GitHub account. **I recommend that you use your first and last name If you already have a GitHub account, skip this step. 
 
 2. I believe you've already installed R and RStudio because you are taking SDS 100 or have taken other SDS courses. But if not, follow [these instructions](https://rstudio-education.github.io/hopr/starting.html) to download and install R and RStudio. Be sure to install R first and RStudio second. 
 
