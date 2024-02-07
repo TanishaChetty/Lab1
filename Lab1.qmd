@@ -5,6 +5,6 @@ output:
   html_document
 ---
 
-1. ====Tanisha Chetty==
+1. ===Tanisha Chetty==
 2. Save the document by clicking the Save button above. 
 3. Return to Lab 1 instructions to learn how to commit and push you code.
